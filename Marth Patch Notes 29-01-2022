@@ -1,0 +1,72 @@
+---Patch Notes---
+
+Marth
+-Changed icon on character grid to be 'diddy kong', the text is unchanged
+-Increased Run Acceleration from 30 -> 80
+-Increased number of jumps significantly
+-Increased air mobility B from 0.02 -> 0.1
+-Increased weight from 87 -> 500
+-Increased jab 1 damage from 4 -> 150
+-Increased jab 1 Knockback growth from 50 -> 150
+-Increased jab 1 Base Knockback from 20 -> 150
+-Increased jab 2 damage from 4 -> 150
+-Increased jab 2 Knockback growth from 50 -> 150
+-Increased jab 2 Base Knockback from 20 -> 150
+-Increased Dash attack damage from 11 -> 150
+-Increased Dash attack Knockback growth from 55 -> 150
+-Increased Dash attack Base Knockback from 35 -> 150
+-Increased Forward tilt damage from 9 -> 150
+-Increased Forward tilt Knockback growth from 70 -> 150
+-Increased Forward tilt Base Knockback from 30 -> 150
+-Increased Forward smash damage from 14 -> 150
+-Increased Forward smash Knockback growth from 70 -> 150
+-Increased Forward smash Base Knockback from 60 -> 150
+-Increased Forward smash Tipper Size from 1000 -> 7000
+-Increased Up smash damage from 15 -> 150
+-Increased Up smash Knockback growth from 80 -> 150
+-Increased Up smash Base Knockback from 30 -> 150
+-Increased Down smash damage from 11 -> 150
+-Increased Down smash Knockback growth from 100 -> 150
+-Increased Down smash Base Knockback from 16 -> 150
+-Increased Fair damage from 9 -> 150
+-Increased Fair Knockback growth from 70 -> 150
+-Increased Fair Base Knockback from 20 -> 150
+-Increased Bair damage from 9 -> 150
+-Increased Bair Knockback growth from 70 -> 150
+-Increased Bair Base Knockback from 10 -> 150
+-Increased Up air damage from 9 -> 150
+-Increased Up air Knockback growth from 70 -> 150
+-Increased Up air Base Knockback from 20(variable) -> 150
+-Increased Down air damage from 9 -> 150
+-Increased Down air Knockback growth from 70 -> 150
+-Increased Down air Base Knockback from 20(variable) -> 150
+-Increased Forward Throw damage from 4 -> 150
+-Increased Forward Throw Knockback growth from 45 -> 150
+-Increased Forward Throw Base Knockback from 70 -> 150
+-Increased Back Throw damage from 4 -> 150
+-Increased Back Throw Knockback growth from 60 -> 150
+-Increased Back Throw Base Knockback from 70 -> 150
+-Increased Back Throw Angle from 117 -> 150
+-Decreased Back Throw Angle from 361 -> 150
+-Increased Up Throw damage from 4 -> 150
+-Increased Up Throw Knockback growth from 130 -> 150
+-Increased Up Throw Base Knockback from 60 -> 150
+-Increased Up Throw Angle from 93 -> 120
+-Increased Neutral-B End damage from 7 -> 150
+-Increased Neutral-B End Knockback growth from 100 -> 150
+-Increased Neutral-B End Base Knockback from 30 -> 150
+-Increased Side-B Start damage from 4 -> 150
+-Increased Side-B Start Knockback growth from 25 -> 150
+-Increased Side-B Start Base Knockback from 55 -> 150
+-Increased (Ground)Up-B damage from 7 -> 150
+-Increased (Ground)Up-B Knockback growth from 90 -> 150
+-Increased (Ground)Up-B Base Knockback from 20 -> 150
+-Increased (Ground)Down-B Counter damage from 7 -> 150
+-Increased (Ground)Down-B Counter Knockback growth from 35 -> 150
+-Increased (Ground)Down-B Counter Base Knockback from 90 -> 150
+-Decreased Max number of frames of hitstun from 20 -> 1
+-Decreased Damage multiplier for frames of hitstun from 0.33 -> 0.1
+-Decreased Base hitstun from 3 -> 1
+-Decreased Hitstun multiplier on crouching from 0.667 -> 0.1
+
+*Changes Made By George*
