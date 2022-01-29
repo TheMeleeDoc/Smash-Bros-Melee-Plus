@@ -1,5 +1,7 @@
 ---Patch Notes---
 
+*George*
+
 Marth
 -Changed icon on character grid to be 'diddy kong', the text is unchanged
 -Increased Run Acceleration from 30 -> 80
@@ -68,5 +70,3 @@ Marth
 -Decreased Damage multiplier for frames of hitstun from 0.33 -> 0.1
 -Decreased Base hitstun from 3 -> 1
 -Decreased Hitstun multiplier on crouching from 0.667 -> 0.1
-
-*Changes Made By George*
