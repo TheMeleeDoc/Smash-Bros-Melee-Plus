@@ -1,0 +1,29 @@
+---PATCH NOTES---
+
+Puff
+-Decreased Weight
+-Increased rest hitbox
+-Adjusted timing on rest
+-Changed character icon on character select from 'Jiggly-Puff' to 'Jiggly-Box'
+-Edited character icon from character select
+-Edited characters eye textures to reflect hungrybox when on green skin
+
+Fox
+-Broke Shine
+-Fixed shine
+-Increased lazer damage to 30%
+
+Falco
+-Increased Damage of Shine
+-Increased Shine hitbox to two frames
+
+Peach
+-Decreased ground friction
+
+Marth
+
+
+Mario
+-Increased Weight to (10,000)
+-Increased Jab Damage to (-)
+-Increased Up-b Damage to (-)
