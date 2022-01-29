@@ -18,12 +18,23 @@ Falco
 -Increased Shine hitbox to two frames
 
 Peach
--Decreased ground friction
-
-Marth
-
+-Decreased ground friction (0.1 -> 0.015)
+-Increased chance of Stitch turnip
+-Increased air mobility A (0.06 -> 0.1)
+-Increased air mobility B (0.01 -> 0.5)
+-Increased Shield size (11.875 -> 15)
+-Decreased Shield Break Initial Velocity (2.5 -> 1)
+-Decreased Normal Landing Lag (4 -> 1)
+-Decreased N-Air Landing Lag (17 -> 1)
+-Decreased F-Air Landing Lag (25 -> 1)
+-Decreased B-Air Landing Lag (15 -> 1)
+-Decreased U-Air Landing Lag (15 -> 1)
+-Decreased D-Air Landing Lag (15 -> 1)
+-Decreased Max number of frames of hitstun from 20 -> 1
+-Decreased Damage multiplier for frames of hitstun from 0.33 -> 0.1
+-Decreased Base hitstun from 3 -> 1
+-Decreased Hitstun multiplier on crouching from 0.667 -> 0.1
 
 Mario
 -Increased Weight to (10,000)
--Increased Jab Damage to (-)
--Increased Up-b Damage to (-)
+-Increased jumps significantly
