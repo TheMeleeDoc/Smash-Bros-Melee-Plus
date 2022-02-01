@@ -1,0 +1,156 @@
+---PATCH NOTES---
+
+Puff
+-Decreased Weight
+-Increased rest hitbox to (1250)
+-Adjusted timing on rest
+-Changed character icon on character select from 'Jiggly-Puff' to 'Jiggly-Box'
+-Edited character icon from character select
+-Edited characters eye textures to reflect hungrybox when on green skin
+-Increased Shield Value Significantly
+-Decreased Friction Significantly
+
+Peach
+-Decreased ground friction (0.1 -> 0.015)
+-Increased chance of Stitch turnip
+-Increased air mobility A (0.06 -> 0.1)
+-Increased air mobility B (0.01 -> 0.5)
+-Increased Shield size (11.875 -> 15)
+-Decreased Shield Break Initial Velocity (2.5 -> 1)
+-Decreased Normal Landing Lag (4 -> 1)
+-Decreased N-Air Landing Lag (17 -> 1)
+-Decreased F-Air Landing Lag (25 -> 1)
+-Decreased B-Air Landing Lag (15 -> 1)
+-Decreased U-Air Landing Lag (15 -> 1)
+-Decreased D-Air Landing Lag (15 -> 1)
+-Decreased Max number of frames of hitstun from 20 -> 1
+-Decreased Damage multiplier for frames of hitstun from 0.33 -> 0.1
+-Decreased Base hitstun from 3 -> 1
+-Decreased Hitstun multiplier on crouching from 0.667 -> 0.1
+
+Mario
+-Increased Weight to (10,000)
+-Increased jumps significantly
+-Increased Initial Walk Velocity from (0.1 -> 1.0)
+-Increased Walk Acceleration from (0.1 -> 1.0)
+-Increased Walk Maximum Velocity from (1.1 -> 11)
+-Increased Slow Walk Max From (0.18 -> 18)
+-Increased Mid Walk Point From (0.44 -> 44)
+-Increased Fast Walk Min From (0.7 -> 70)
+-Increased Friction From (0.06 -> 0.6)
+-Increased Dash Initial Velocity From (1.5 -> 15)
+-Increased Dash & Run Acceleration A From (0.06 -> 0.6)
+-Increased Dash & Run Acceleration B From (0.02 -> 0.2)
+-Increased Jump V Initial Velocity From (2.3 -> 3)
+-Increased Ground to Air Jump Momentum Multiplier From (0.8 -> 8)
+-Increased Jump H Maximum Velocity From (1.5 -> 15)
+-Increased Shorthop V Initial Velocity From (1.4 -> 14)
+-Increased Double Jump Momentum From (0.9 -> 1)
+-Increased Terminal Velocity From (1.7 -> 17)
+-Increased Max Aerial H Velocity From (0.86 -> 8.6)
+-Increased Air Friction From (0.016 -> 0.16)
+-Increased Jab 2 Window From (24 -> 240)
+-Increased Jab 3 Window From (24 -> 240)
+-Increased Weight From (100 -> 10000)
+-Increased Shield Size From (10.75 -> 107.5)
+-Increased LedgeJump Horizontal Velocity From (1 -> 10)
+-Increased LedgeJump Vertical Velocity From (2.3 -> 23)
+-Increased Item Throw Velocity From (1 -> 10)
+-Increased WallJump H Velocity From (1.3 -> 13)
+-Increased WallJump V Velocity From (2.3 -> 23)
+-Increased DJC From (1 -> 10)
+-Increased DJC From (1 -> 10)
+-Decreased Frames to Change Direction on Standing Turn From (4 -> 1)
+-Decreased Model Scaling From (1.1 -> 1)
+-Decreased Shield Break Initial Velocity From (2.5 -> 0.25)
+-Decreased Kirby Neutral+B Star Damage (17 -> 1.7)
+-Decreased Normal Landing Lag From (4 -> 1)
+-Decreased N-Air Landing Lag From (16 -> 1)
+-Decreased F-Air Landing Lag From (21 -> 1)
+-Decreased B-Air Landing Lag From (15 -> 1)
+-Decreased U-Air Landing Lag From (15 -> 1)
+-Decreased D-Air Landing Lag From (23 -> 1)
+-Decreased Victory Screen Window Model Scaling From (20 -> 1)
+-Decreased Max number of frames of hitstun from (20 -> 1)
+-Decreased Damage multiplier for frames of hitstun From (0.333 -> 0.1)
+-Decreased Base hitstun From (3 -> 1)
+-Decreased Hitstun multiplier on crouching From (0.667 -> 0.1)
+-Changed icon on character grid to be 'The Red Amongus Character', the text has been changed to 'RED SUS'
+
+Fox
+-Broke Shine
+-Fixed shine
+-Increased lazer damage to 30%
+
+Falco
+-Increased Damage of Shine
+-Increased Shine hitbox to two frames
+
+Marth
+-Changed icon on character grid to be 'diddy kong', the text is unchanged
+-Increased Run Acceleration from 30 -> 80
+-Increased number of jumps significantly
+-Increased air mobility B from 0.02 -> 0.1
+-Increased weight from 87 -> 500
+-Increased jab 1 damage from 4 -> 150
+-Increased jab 1 Knockback growth from 50 -> 150
+-Increased jab 1 Base Knockback from 20 -> 150
+-Increased jab 2 damage from 4 -> 150
+-Increased jab 2 Knockback growth from 50 -> 150
+-Increased jab 2 Base Knockback from 20 -> 150
+-Increased Dash attack damage from 11 -> 150
+-Increased Dash attack Knockback growth from 55 -> 150
+-Increased Dash attack Base Knockback from 35 -> 150
+-Increased Forward tilt damage from 9 -> 150
+-Increased Forward tilt Knockback growth from 70 -> 150
+-Increased Forward tilt Base Knockback from 30 -> 150
+-Increased Forward smash damage from 14 -> 150
+-Increased Forward smash Knockback growth from 70 -> 150
+-Increased Forward smash Base Knockback from 60 -> 150
+-Increased Forward smash Tipper Size from 1000 -> 7000
+-Increased Up smash damage from 15 -> 150
+-Increased Up smash Knockback growth from 80 -> 150
+-Increased Up smash Base Knockback from 30 -> 150
+-Increased Down smash damage from 11 -> 150
+-Increased Down smash Knockback growth from 100 -> 150
+-Increased Down smash Base Knockback from 16 -> 150
+-Increased Fair damage from 9 -> 150
+-Increased Fair Knockback growth from 70 -> 150
+-Increased Fair Base Knockback from 20 -> 150
+-Increased Bair damage from 9 -> 150
+-Increased Bair Knockback growth from 70 -> 150
+-Increased Bair Base Knockback from 10 -> 150
+-Increased Up air damage from 9 -> 150
+-Increased Up air Knockback growth from 70 -> 150
+-Increased Up air Base Knockback from 20(variable) -> 150
+-Increased Down air damage from 9 -> 150
+-Increased Down air Knockback growth from 70 -> 150
+-Increased Down air Base Knockback from 20(variable) -> 150
+-Increased Forward Throw damage from 4 -> 150
+-Increased Forward Throw Knockback growth from 45 -> 150
+-Increased Forward Throw Base Knockback from 70 -> 150
+-Increased Back Throw damage from 4 -> 150
+-Increased Back Throw Knockback growth from 60 -> 150
+-Increased Back Throw Base Knockback from 70 -> 150
+-Increased Back Throw Angle from 117 -> 150
+-Decreased Back Throw Angle from 361 -> 150
+-Increased Up Throw damage from 4 -> 150
+-Increased Up Throw Knockback growth from 130 -> 150
+-Increased Up Throw Base Knockback from 60 -> 150
+-Increased Up Throw Angle from 93 -> 120
+-Increased Neutral-B End damage from 7 -> 150
+-Increased Neutral-B End Knockback growth from 100 -> 150
+-Increased Neutral-B End Base Knockback from 30 -> 150
+-Increased Side-B Start damage from 4 -> 150
+-Increased Side-B Start Knockback growth from 25 -> 150
+-Increased Side-B Start Base Knockback from 55 -> 150
+-Increased (Ground)Up-B damage from 7 -> 150
+-Increased (Ground)Up-B Knockback growth from 90 -> 150
+-Increased (Ground)Up-B Base Knockback from 20 -> 150
+-Increased (Ground)Down-B Counter damage from 7 -> 150
+-Increased (Ground)Down-B Counter Knockback growth from 35 -> 150
+-Increased (Ground)Down-B Counter Base Knockback from 90 -> 150
+-Decreased Max number of frames of hitstun from 20 -> 1
+-Decreased Damage multiplier for frames of hitstun from 0.33 -> 0.1
+-Decreased Base hitstun from 3 -> 1
+-Decreased Hitstun multiplier on crouching from 0.667 -> 0.1
