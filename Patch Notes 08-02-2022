@@ -1,0 +1,9 @@
+---Patch Notes---
+
+Marth
+-Increased marth grab Hitbox 1 size from (1000 -> 2000)
+-Increased marth grab Hitbox 2 size from (1000 -> 2000)
+-Increased marth grab Hitbox 3 size from (1000 -> 2000)
+-Altered marth grab Hitbox 1 from (x3300 y2100 -> x5000 y2100)
+-Altered marth grab Hitbox 2 from (x2500 y2000 -> x3300 y2000)
+-Altered marth grab Hitbox 3 from (x1800 y1900 -> x2000 y1900)
